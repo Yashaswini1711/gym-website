@@ -1,5 +1,5 @@
 from django.db import models
-from distutils.command.upload import upload
+# from distutils.command.upload import upload
 
 # Create your models here.
 class Contact(models.Model):
